@@ -72,3 +72,4 @@ Tab Smash is based on [Tab Stash](https://github.com/iannuttall/tab-stash) by Ia
 ## License
 
 MIT License - see [LICENSE](LICENSE)
+ 
